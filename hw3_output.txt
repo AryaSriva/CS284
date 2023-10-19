@@ -1,0 +1,210 @@
+~~~ TO-DO List Program, created by truly yours ~~~
+==> Currently there are NO items in the To-Do List
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+fsfs
+ERROR! Please enter a number between 1 and 8 (included).
+==> Currently there are NO items in the To-Do List
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+78
+ERROR! Please enter a number between 1 and 8 (included).
+==> Currently there are NO items in the To-Do List
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+1
+Please enter the task description:
+write hw file
+Successfully entered the task to the to-do list!
+Current TO-DO List:
+-------------------
+1. write hw file
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+1
+Please enter the task description:
+write test cases
+Successfully entered the task to the to-do list!
+Current TO-DO List:
+-------------------
+1. write hw file
+2. write test cases
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+2
+Please enter the task description:
+publish hw
+Please enter a priority number (1 indicates highest priority, increasing numbers show lower priority) :
+1
+Successfully entered the task to the to-do list!
+Current TO-DO List:
+-------------------
+1. publish hw
+2. write hw file
+3. write test cases
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+2
+Please enter the task description:
+create output file
+Please enter a priority number (1 indicates highest priority, increasing numbers show lower priority) :
+1
+Successfully entered the task to the to-do list!
+Current TO-DO List:
+-------------------
+1. publish hw
+2. create output file
+3. write hw file
+4. write test cases
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+3
+Task is completed and removed from the list: publish hw
+Successfully removed the most urgent task/top of the list task!
+Current TO-DO List:
+-------------------
+1. create output file
+2. write hw file
+3. write test cases
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+4
+Please enter the task number you would like to cross off the list :
+9
+Unsuccessful operation! Please try again!
+Current TO-DO List:
+-------------------
+1. create output file
+2. write hw file
+3. write test cases
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+4
+Please enter the task number you would like to cross off the list :
+2
+Task number 2 is removed: write hw file
+Successfully removed the task number: 2
+Current TO-DO List:
+-------------------
+1. create output file
+2. write test cases
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+5
+Top 3 highest priority tasks:
+------------------------------
+Printing Top Three Tasks...
+1. create output file
+2. write test cases
+Current TO-DO List:
+-------------------
+1. create output file
+2. write test cases
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+6
+Completed Tasks:
+----------------
+1. publish hw
+2. write hw file
+Current TO-DO List:
+-------------------
+1. create output file
+2. write test cases
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+7
+All of the Tasks - Both completed and active:
+---------------------------------------------
+1. publish hw
+2. create output file
+3. write hw file
+4. write test cases
+Current TO-DO List:
+-------------------
+1. create output file
+2. write test cases
+To add a new task without priority information, press 1.
+To add a new task with a priority information, press 2.
+To cross off the task at the top of the list, press 3.
+To cross off a certain task in the list, press 4.
+To see the top 3 highest priority tasks, press 5.
+To see the completed tasks, press 6.
+To see the all tasks that has been completed or still active, press 7.
+To quit the program, press 8.
+8
+
+Process finished with exit code 0
+
